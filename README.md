@@ -5,8 +5,8 @@ This is a responsive and informative website for the University of Sudan. It was
 ## Live Demo
 
 You can view the website here:  
-https://yourusername.github.io/uofs-website/  
-(Replace "yourusername" with your actual GitHub username)
+https://Emadsiddig.github.io/uofs-website/  
+
 
 ## Project Structure
 
